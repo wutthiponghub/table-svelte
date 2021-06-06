@@ -1,4 +1,4 @@
-import Table from "./Table.svelte";
+import Table from "./components/Table.svelte";
 
 const app = new Table({
   target: document.body,
